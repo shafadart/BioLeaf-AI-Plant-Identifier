@@ -1,16 +1,40 @@
-# bio_leaf
+# 🌿 BioLeaf - AI Powered Plant Identifier
 
-AI powered plant care and identification app.
+**BioLeaf** is a smart gardening assistant built with **Flutter** and **Google Gemini AI**. It allows users to instantly identify plants, discover their medicinal properties, and get gardening tips just by snapping a photo.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- **🤖 AI Integration:** Powered by **Google Gemini Pro Vision API** for accurate image recognition.
+- **📷 Instant Identification:** Identifies plants and provides Vastu/Medicinal details in seconds.
+- **⚡ Hybrid Architecture:** Works seamlessly with live API data and includes a Mock Mode for offline demonstrations.
+- **🎨 Modern UI:** Clean, responsive, and intuitive design for a smooth user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter (Dart)
+- **AI Model:** Google Gemini Pro Vision
+- **State Management:** Provider / SetState
+- **Architecture:** MVVM Pattern
+- **Tools:** VS Code, Android Studio
+
+---
+
+## 📸 App Screenshots
+
+| Home Screen | Scan Result | Details View |
+|:-----------:|:-----------:|:------------:|
+| <img src="https://via.placeholder.com/200x400?text=Home+Screen" width="200"> | <img src="https://via.placeholder.com/200x400?text=Scan+Result" width="200"> | <img src="https://via.placeholder.com/200x400?text=Details+View" width="200"> |
+
+*(Real screenshots coming soon)*
+
+---
+
+## 🔧 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/shafadart/BioLeaf-AI-Plant-Identifier.git](https://github.com/shafadart/BioLeaf-AI-Plant-Identifier.git)
