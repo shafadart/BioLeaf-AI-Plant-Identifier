@@ -27,7 +27,7 @@
 
 | Home Screen | Scan Result | Details View |
 |:-----------:|:-----------:|:------------:|
-| <img src="bio1.png" width="200"> | <img src="bio2.png" width="200"> | <img src="bio3.png" width="200"> |
+| <img src="assets/bio1.png" width="200"> | <img src="assets/bio2.png" width="200"> | <img src="assets/bio3.png" width="200"> |
 
 ---
 
