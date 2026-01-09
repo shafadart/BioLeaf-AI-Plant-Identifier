@@ -27,9 +27,7 @@
 
 | Home Screen | Scan Result | Details View |
 |:-----------:|:-----------:|:------------:|
-| <img src="https://via.placeholder.com/200x400?text=Home+Screen" width="200"> | <img src="https://via.placeholder.com/200x400?text=Scan+Result" width="200"> | <img src="https://via.placeholder.com/200x400?text=Details+View" width="200"> |
-
-*(Real screenshots coming soon)*
+| <img src="bio1.png" width="200"> | <img src="bio2.png" width="200"> | <img src="bio3.png" width="200"> |
 
 ---
 
