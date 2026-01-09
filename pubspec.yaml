@@ -1,0 +1,41 @@
+name: bio_leaf
+description: AI powered plant care and identification app.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Default icons
+  cupertino_icons: ^1.0.6
+
+  # 🔥 Our Special Packages (AI & Camera)
+  google_generative_ai: 0.4.7   # Gemini AI এর জন্য
+  camera: ^0.11.0                # লাইভ ক্যামেরা প্রিভিউ এর জন্য
+  image_picker: ^1.1.0           # গ্যালারি বা কুইক ছবি তোলার জন্য
+  path_provider: ^2.1.2          # ফাইল সেভ করার পাথ পাওয়ার জন্য
+  path: ^1.9.0                   # ফাইল পাথ জয়েন করার জন্য
+  http: ^1.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: "^0.13.1"
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.jpeg" # Tomar chobir path
+  min_sdk_android: 21 # Eta dile compatibility valo thake
+
+flutter:
+  uses-material-design: true
+
+  # Assets section (ভবিষ্যতে আমরা এখানে লোগো এড করব)
+  # assets:
+  #   - assets/images/
